@@ -10,3 +10,5 @@ print('Smallest:', smallest)
   # olurda None'dan başlatmayıp bir değer vermişsem ya da 
   # listenin ilk öğesinden başlatmışsam 'or' dan sonrasına bakılır.
   # misal list = [3, 41, 12, 9, 74, 15],  list[0] gibi
+
+  # Github için yorum eklendi.
